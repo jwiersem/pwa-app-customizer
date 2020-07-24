@@ -1,0 +1,13 @@
+{
+  "name": "Vrijwilligers App",
+  "short_name": "VW App",
+  "start_url": "https://jwiersem.sharepoint.com/sites/Manifest/",
+  "display": "standalone",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}
